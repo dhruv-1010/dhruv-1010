@@ -1,3 +1,7 @@
+## About Me :
+- 👩‍🏫 I am currently working on a Blockchain Project
+- 👨‍🚀 I am very excited about the future of blockchain
+- ⭐️ I am currently in junior year of my studies
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@dhrxuxv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv1010) 
