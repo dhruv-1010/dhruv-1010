@@ -25,9 +25,9 @@
 - 💬 Ask me about distributed systems, backend, or breaking things in production (safely)
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" />
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f3d5cb2-1b83-4de3-8b7c-a76d19eec3e1.png" width="80" />
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-b2fe-4c16-b1cc-4a2ac5f2c1e0.png" width="80" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" alt="Rust" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" alt="TypeScript" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" alt="React" />
 </p>
 
 ---
@@ -43,8 +43,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruv-1010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-1010&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruv-1010&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhruv-1010&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -52,12 +52,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruv-1010&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=dhruv-1010&data=followers,repositories,stars,commits&theme=nautilus" alt="profile widget" />
 </p>
 
-### 🔝 Top Contributed Repo
+### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=dhruv-1010&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv-1010&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
