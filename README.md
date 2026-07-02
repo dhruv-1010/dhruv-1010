@@ -62,11 +62,14 @@
 
 ---
 
-## 🐍 Contribution Graph
+
+## 🟩 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhruv-1010/dhruv-1010/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" />
+  <img src="https://ghchart.rshah.org/00e0ff/dhruv-1010" alt="dhruv-1010's github contribution grid" />
 </p>
+
+
 
 ---
 
