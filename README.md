@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruv-1010&label=Profile%20views&color=00E0FF&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/dhruv-1010?label=Followers&style=social" alt="followers" />
 </p>
 
